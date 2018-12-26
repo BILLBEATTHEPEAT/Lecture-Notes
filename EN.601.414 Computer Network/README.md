@@ -1,4 +1,4 @@
-The summary and lecture note of EN.601.414/614: Computer Networks in Johns Hopkins University.
+The summary and lecture note of EN.601.414/614: Computer Networks @ Johns Hopkins University.
 
 Instructor: Xin Jin
 
